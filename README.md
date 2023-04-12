@@ -1,2 +1,2 @@
 # Codeclause_T3_Speedtyping
-Golden Project Project Name = Speed Typing Test in Python
+## Golden Project = Speed Typing Test in Python
